@@ -20,15 +20,52 @@ button {
     cursor: pointer;
 }
 .search-form {
-    display: flex;
-    justify-content: center;
-    padding: 8px;
+    position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 25px 0 25px 0;
+
+  background: #e88834;
+  background: linear-gradient(to right, #0f3443, #e86434);
+  box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.5);
 }
 input {
     border: none;
     outline: none;
 }
+.input-style 
+{
 
+ width: 180px;
+  height: 40px;
+  padding: 10px;
+
+  font-size: 16px;
+
+  outline: none;
+  border: none;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+
+}.button-style{width: 100px;
+    height: 40px;
+    padding: 10px;
+  
+    font-size: 16px;
+  
+    outline: none;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+  
+
+}
 .box {
     background: dodgerblue;
     margin-bottom: 24px;
