@@ -1,15 +1,15 @@
 {
-  "name": "goit-js-hw-11",
+  "name": "goit-js-hw-11.",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Natali2721.github.io/goit-js-hw-11",
+  "homepage": "https://github.com/leshazimoglyad/goit-js-hw-11.",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11./"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Natali2721/goit-js-hw-11.git"
+    "url": "git+https://github.com/leshazimoglyad/goit-js-hw-11..git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
